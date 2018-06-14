@@ -1,4 +1,4 @@
-# mdcss theme boilerplate
+# mdcss svelte theme boilerplate
 
 1. To begin, [fork this project].
 
